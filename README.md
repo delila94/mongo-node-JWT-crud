@@ -2,6 +2,7 @@
 # Installation
 - Clone the repository
 ```
+git clone https://github.com/delila94/mongo-node-JWT-crud.git
 ```
 - Install dependencies
 ```
